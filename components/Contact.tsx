@@ -50,14 +50,14 @@ export default function Contact() {
             <p>
               📧 Email:
               <span className="ml-2 font-medium text-black dark:text-white">
-                contact@webzercode.com
+                webzercode.dev@gmail.com
               </span>
             </p>
 
             <p>
               💻 GitHub:
               <a href="#" className="ml-2 underline hover:text-black dark:hover:text-white">
-                github.com/webzercode
+                https://github.com/webzercode
               </a>
             </p>
 
