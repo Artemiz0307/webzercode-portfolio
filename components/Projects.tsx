@@ -16,7 +16,7 @@ export default function Projects() {
       description:
         "SaaS mobile platform for exam preparation with paid paper access and subscription features.",
       tech: ["React Native", "Supabase", "Expo"],
-      github: "#",
+      github: "https://github.com/Artemiz0307/exhub-cameroon",
     },
     {
       title: "Deforestation Monitoring App",
