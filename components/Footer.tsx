@@ -32,13 +32,13 @@ export default function Footer() {
 
         {/* Social */}
         <div className="flex gap-4 text-sm text-gray-700 dark:text-gray-300">
-          <a href="#" className="hover:text-black dark:hover:text-white">
+          <a href="https://github.com/webzercode" className="hover:text-black dark:hover:text-white">
             GitHub
           </a>
           <a href="#" className="hover:text-black dark:hover:text-white">
             LinkedIn
           </a>
-          <a href="#" className="hover:text-black dark:hover:text-white">
+          <a href="mailto:webzercode.dev@gmail.com" className="hover:text-black dark:hover:text-white">
             Email
           </a>
         </div>
