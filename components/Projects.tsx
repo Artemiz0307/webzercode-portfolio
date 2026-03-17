@@ -63,6 +63,15 @@ export default function Projects() {
     github: "https://github.com/projectmesa/mesa/pull/3540",
     live: "#",
   },
+    {
+    title: "Coupon Management System",
+    image: "/projects/coupon.png",
+    description:
+      "Production-ready coupon management system with a Flask API and React frontend, supporting coupon creation, expiry validation, usage limits, and real-time redemption tracking, deployed on PythonAnywhere.",
+    tech: ["React (Vite)", "Tailwind CSS", "Flask REST API", "PythonAnywhere"],
+    github: "https://github.com/Artemiz0307/coupon_management_system",
+    live: "#",
+  },
 
  
   ]
