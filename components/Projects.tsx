@@ -17,7 +17,7 @@ export default function Projects() {
       description:
         "SaaS mobile platform for exam preparation with subscription and paid paper access.",
       tech: ["React Native", "Supabase", "Expo"],
-      github: "https://github.com/webzercode/Exam-app",
+      github: "https://github.com/Artemiz0307/Exam-app",
       live: "#https://exam-prep-app.netlify.app",
     },
     {
