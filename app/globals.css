@@ -1,18 +1,11 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
-  background-color: white;
 }
 
-html.dark {
-  background-color: black;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-section {
-  scroll-margin-top: 90px;
+* {
+  transition: background-color 0.35s ease, color 0.35s ease, border-color 0.35s ease;
 }

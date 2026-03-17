@@ -35,7 +35,7 @@ export default function Footer() {
           <a href="https://github.com/webzercode" className="hover:text-black dark:hover:text-white">
             GitHub
           </a>
-          <a href="#" className="hover:text-black dark:hover:text-white">
+          <a href="https://www.linkedin.com/in/abang-clement-73b9b52a0?utm_source=share_via&utm_content=profile&utm_medium=member_android" className="hover:text-black dark:hover:text-white">
             LinkedIn
           </a>
           <a href="mailto:webzercode.dev@gmail.com" className="hover:text-black dark:hover:text-white">
